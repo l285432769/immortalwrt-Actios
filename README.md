@@ -13,7 +13,7 @@
 1. 先把本仓库Fork到你自己账号下
 ![拉流仓库](img/0.png)
 
-2. 你的仓库 → **Actions** → **Build_imm_高通410系列** → **Run workflow** → 选择设备型号 → 填写需要插件包 → Run workflow 开始编译
+2. 手动触发编译：你的仓库 → **Actions** → **Build_imm_高通410系列** → **Run workflow** → 选择设备型号 → 填写需要插件包 → Run workflow 开始编译
 ![编译教程](img/1.png)
 
 3. 编译约⏱️ 1.5-2 小时，插件越多时间越长.
